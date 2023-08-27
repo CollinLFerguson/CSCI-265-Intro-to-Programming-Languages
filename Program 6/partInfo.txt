@@ -1,0 +1,8 @@
+wheel:1.11
+muffler:22.22
+belt:33.33
+steering_wheel:44.4
+seat:555.555
+fuel_injector:666.66
+carburetor:999.99
+fuse:000.09
